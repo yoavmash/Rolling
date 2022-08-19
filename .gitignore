@@ -1,0 +1,19 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+###########################
+# Unreal Generated Assets #
+###########################
+
+#######################
+# Visual studio Files #
+#######################
+*/.vs
+*/Script
+BuildingEscape/BuildingEscape.sln
