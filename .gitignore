@@ -6,6 +6,7 @@
 */DerivedDataCache
 */Intermediate
 */Saved
+*/Script
 
 ###########################
 # Unreal Generated Assets #
@@ -15,5 +16,4 @@
 # Visual studio Files #
 #######################
 */.vs
-*/Script
 BuildingEscape/BuildingEscape.sln
